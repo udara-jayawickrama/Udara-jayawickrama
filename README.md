@@ -26,7 +26,7 @@ Version Control & Collaboration
 Design & Productivity
 <p align="left"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /> </p>
 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=udarajayawickrama&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" /> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udara-jayawickrama&layout=compact&theme=radical&langs_count=8" alt="Top Languages" /> </p><p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=udarajayawickrama&theme=radical" alt="GitHub Streak" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=udarajayawickrama&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" /> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udarajayawickrama&layout=compact&theme=radical&langs_count=8" alt="Top Languages" /> </p><p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=udarajayawickrama&theme=radical" alt="GitHub Streak" /> </p>
 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=udarajayawickrama&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" /> </p>
 📊 Contribution Graph

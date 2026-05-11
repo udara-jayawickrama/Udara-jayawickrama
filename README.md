@@ -65,11 +65,11 @@
 
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td align="center" style="border: none;"><img src="https://github-readme-stats.vercel.app/api?username=udarajayawickrama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" /></td>
+    <td align="center" style="border: none;"><img src="https://readme-stats.ajhalmac.dev/api?username=udarajayawickrama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" /></td>
     <td align="center" style="border: none;"><img src="https://streak-stats.demolab.com?user=udarajayawickrama&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" /></td>
   </tr>
   <tr style="border: none;">
-    <td align="center" style="border: none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udarajayawickrama&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" /></td>
+    <td align="center" style="border: none;"><img src="https://readme-stats.ajhalmac.dev/api/top-langs/?username=udarajayawickrama&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" /></td>
     <td align="center" style="border: none;"><img src="https://github-profile-trophy.vercel.app/?username=udarajayawickrama&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies" /></td>
   </tr>
 </table>

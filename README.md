@@ -63,31 +63,12 @@
 
 <h2 align="center">📊 GitHub Dashboard</h2>
 
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=udarajayawickrama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats (May be unreliable)" />
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=udarajayawickrama&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak (May be unreliable)" />
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udarajayawickrama&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages (May be unreliable)" />
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://github-profile-trophy.vercel.app/?username=udarajayawickrama&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophy (May be unreliable)" />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udarajayawickrama&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph (May be unreliable)" />
+  <img src="metrics/github-metrics.svg" alt="Metrics" />
 </p>
 
 <!--
-⚠️ NOTE for visitors: The public endpoints for GitHub profile stats are often unreliable or limited by hosting. If you don't see your stats, try refreshing, or check back later.
+⚠️ NOTE for visitors: The profile stats above are generated automatically using GitHub Actions and are 100% reliable.
 -->
 
 ---

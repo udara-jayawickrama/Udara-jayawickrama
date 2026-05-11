@@ -1,11 +1,11 @@
 <!-- Header Capsule -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Hello%20World!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=51&descAlign=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Hello%20World!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=52" width="100%"/>
 
 <div align="center">
   
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Udara+Jayawickrama+👋;Software+Engineering+Undergraduate;Full-Stack+Developer;ML+%26+IoT+Enthusiast;Building+Real-World+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Udara+Jayawickrama+👋;Software+Engineering+Student+%7C+Full-Stack+Dev+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -65,20 +65,26 @@
 
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td align="center" style="border: none;"><img src="https://readme-stats.ajhalmac.dev/api?username=udarajayawickrama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" /></td>
-    <td align="center" style="border: none;"><img src="https://streak-stats.demolab.com?user=udarajayawickrama&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" /></td>
+    <td align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=udarajayawickrama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://streak-stats.demolab.com/?user=udarajayawickrama&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+    </td>
   </tr>
   <tr style="border: none;">
-    <td align="center" style="border: none;"><img src="https://readme-stats.ajhalmac.dev/api/top-langs/?username=udarajayawickrama&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" /></td>
-    <td align="center" style="border: none;"><img src="https://github-profile-trophy.vercel.app/?username=udarajayawickrama&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies" /></td>
+    <td align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udarajayawickrama&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://github-profile-trophy.vercel.app/?username=udarajayawickrama&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophy" />
+    </td>
   </tr>
 </table>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=udarajayawickrama&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
 </p>
-
-
 
 ---
 

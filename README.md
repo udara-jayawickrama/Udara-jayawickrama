@@ -65,7 +65,7 @@
 
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td align="center" style="border: none;"><img src="https://github-readme-stats.vercel.app/api?username=udarajayawickrama&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" /></td>
+    <td align="center" style="border: none;"><img src="https://github-readme-stats.vercel.app/api?username=udarajayawickrama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" /></td>
     <td align="center" style="border: none;"><img src="https://streak-stats.demolab.com?user=udarajayawickrama&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" /></td>
   </tr>
   <tr style="border: none;">
@@ -77,6 +77,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=udarajayawickrama&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
 </p>
+
+
 
 ---
 
